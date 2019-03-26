@@ -1,0 +1,8 @@
+package KennelDB;
+
+public enum Breed 
+{
+	LAB, LHASOAPSO, PUG, WOLF, COYOTE, PUMA, SHEPHERD, WEIMARANER, GREYHOUND,
+	BORZOI, PITBULL;
+}
+
